@@ -11,15 +11,13 @@
   <p align="center">
     <a href="https://urtest.shop">🏠 배포링크   </a>
     <!-- <a href="https://youtu.be/uBEj5ZkDewI">📺  시연 영상   </a> -->
-    <a href="https://github.com/codestates/urtest-client/wiki">📖 Wiki   </a>
-    <a href="https://github.com/codestates/urtest-client/wiki/WireFrame">:mag: Wire Frame   </a>
-    <a href="https://github.com/codestates/urtest-client/wiki/SystemArchitecture">:hammer_and_wrench: System Architecture   </a>
+    <a href="https://github.com/afashs/ur-client/wiki">📖 Wiki   </a>
+    <a href="https://github.com/afashs/ur-client/wiki/WireFrame">:mag: Wire Frame   </a>
+    <a href="https://github.com/afashs/ur-client/wiki/SystemArchitecture">:hammer_and_wrench: System Architecture   </a>
     <br />
-    <a href="https://github.com/codestates/urtest-client/wiki/FeatureFlow">:package: Feature List   </a>
-    <a href="https://github.com/codestates/urtest-client/wiki/DatabaseScheme">🗄 Database Scheme   </a>
-<!--     <a href="https://github.com/codestates/urtest-client/wiki/FeatureFlow">🌈  Feature Work Flow   </a> -->
+    <a href="https://github.com/afashs/ur-client/wiki/FeatureFlow">:package: Feature List   </a>
+    <a href="https://github.com/afashs/ur-client/wiki/DatabaseScheme">🗄 Database Scheme   </a>
     <a href="https://back.urtest.shop:4000/graphql">📘 Api Docs</a>
-    <!-- <a href="https://www.miricanvas.com/v/1b33h1">📗 발표 자료   </a> -->
   </p>
 
 ## 프로젝트 소개
